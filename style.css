@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 1px solid black; 
+ background-color:rgb(137, 218, 218); 
+ border-radius: 15px;
+}
+
+header a{
+    border: 1px;
+    border-radius: 5px;
+    background-color: white;
+    text-decoration: none;
+    margin: 5px;
+}
+
+header img{
+    border-radius: 5px ;
+    margin: 5px;
+}
+
+h1{
+    color:gold;
+    border: 3px solid rgb(162, 11, 162);
+    border-radius: 15px;
+    padding: 5px;
+    text-align: center;
+}
+
+footer{
+  border: 10px solid  rgb(174, 102, 174);
+  border-radius: 5px;
+}
+
+.pic{
+    border: 3px solid rgb(162, 11, 162);
+    border-radius: 15px;
+}
+
+.ny{
+    color: blue;
+
+}
+
+.te{
+    color: blue;
+}
+
+.op{
+
+color: blue;
+}
+ 
+.com{
+    color: blue;
+}
